@@ -4,6 +4,8 @@ A full-stack data visualization dashboard for exploring global insight records a
 
 The dashboard reads insight records from MongoDB and presents them through filtered analytics, charts, responsive layouts, and a paginated records table.
 
+**Live Demo:** https://global-insights-dashboard-gules.vercel.app/dashboard
+
 ## Project Overview
 
 This project converts a JSON insight dataset into a structured dashboard experience.
@@ -265,9 +267,10 @@ Implemented responsive behavior includes:
 
 ## Setup Instructions
 
-### 1. Install dependencies
+### 1. Clone and install dependencies
 
 ```bash
+git clone https://github.com/kriti-shesh321/Global-Insights-Dashboard.git && cd Global-Insights-Dashboard
 npm install
 ```
 
